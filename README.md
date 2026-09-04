@@ -11,11 +11,11 @@
     <br><br>
     <strong>Periodo:</strong> 202620
     <br><br>
-    1ASI0729 Desarrollo de Aplicaciones Open Source
+    1ASI0730 Aplicaciones Web
     <br><br>
-    <strong>NRC:</strong> 7742
+    <strong>NRC:</strong> 8130
     <br><br>
-    <strong>Nombre del profesor:</strong> Ángel Augusto Velásquez Núñez
+    <strong>Nombre del profesor:</strong> Oscar Ivan Villafuerte Bazan
 
 </p>
 
@@ -23,7 +23,7 @@
 
 <p>
     <br>
-    <strong>Nombre del Startup:</strong> IngesCompany
+    <strong>Nombre del Startup:</strong> IngesCompanyCC
     <br><br>
     <strong>Nombre del Producto:</strong> DoofPlus
     <br><br>
@@ -44,12 +44,12 @@
           <td>Cobades Zamora, Yhoshua Hebert</td>
         </tr>
         <tr>
-          <td>U202423162</td>
-          <td>Flores Martinez, Ricardo Andres</td>
-        </tr>
-        <tr>
           <td>U20241F397</td>
           <td>Rojas Ambicho , Nestor Daniel</td>
+        </tr>
+        <tr>
+          <td>U20241F859</td>
+          <td>Yarleque Ruiz, Cristina Marcela</td>
         </tr>
         <tr>
           <td>U20241F733</td>
@@ -79,7 +79,7 @@
 <tbody>
     <tr>
       <td>1.0.0</td>
-      <td>03/09/2026</td>
+      <td>04/09/2026</td>
       <td>Zavaleta Gutierrez, Rodolfo Martin</td>
       <td>
         Inicialización del repositorio del informe (first commit) y creación de la
@@ -94,7 +94,7 @@
 ## Project Report Collaboration Insights
 
 **Link de los repositorios de la organización:**
-https://github.com/IngesCompany-7742
-
+https://github.com/IngesCompanyCC
+<br>
 **Link del repositorio del Informe:**
-[https://github.com/ClosedSource-11848/ClosedSource-Project-Report](https://github.com/IngesCompany-7742/closedSource-project-report.git)
+https://github.com/IngesCompanyCC/closedSource-project-report.git
